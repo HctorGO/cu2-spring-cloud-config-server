@@ -1,1 +1,1 @@
-# cu2-spring--cloud-config-server
+# cu2-spring-cloud-config-server
